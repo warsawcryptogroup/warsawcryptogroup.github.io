@@ -15,19 +15,7 @@ sections:
       text: |
         <br>
         
-
-        We are based at the Faculty of Mathematics, Informatics, and Mechanics of the University of Warsaw and IDEAS NCBR.
-
-​
-
-        We are mostly interested in the foundations of cryptography and data security, in particular in provably-secure leakage- and tamper-resilient cryptography, cryptographic countermeasures against malicious software attacks, blockchain, and smart contracts.
-
-
-        The group leader is Stefan Dziembowski.
-
-​
-
-        Our research and teaching have been supported by the European Research Council (ERC), the Foundation for Polish Science (FNP), the National Science Centre (NCN), the COST Actions, Intel, and Ethereum Foundation.  
+        We are based at the Faculty of Mathematics, Informatics, and Mechanics of the University of Warsaw and IDEAS NCBR. We are mostly interested in the foundations of cryptography and data security, in particular in provably-secure leakage- and tamper-resilient cryptography, cryptographic countermeasures against malicious software attacks, blockchain, and smart contracts.  The group leader is Stefan Dziembowski. Our research and teaching have been supported by the European Research Council (ERC), the Foundation for Polish Science (FNP), the National Science Centre (NCN), the COST Actions, Intel, and Ethereum Foundation.  
   - block: collection
     content:
       title: Latest News
